@@ -1,4 +1,5 @@
-## MakeCacheMatrix() has the get and set functions for setting the initial value of matrix. ## It also has functions getInv and setInv for getting and setting the inverse of matrix
+## MakeCacheMatrix() has the get and set functions for setting the initial value of matrix. 
+## It also has functions getInv and setInv for getting and setting the inverse of matrix
 
 
 makeCacheMatrix <- function(x = matrix()) {
